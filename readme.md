@@ -4,7 +4,7 @@ We provide two directories. The first directory (atari) is a light-weight implem
 
 # Installation
 
-These directories contain their own conda environments for installation. This is still a pre-release version of the code, and so is not entirely cleaned up. A future version will contain a wrapped environment for ease of use with the dataset. Note that you may receive errors relating to the atari_py ROMS. Please visit https://github.com/openai/atari-py to see how to fix these issues.
+These directories contain their own conda environments for installation. There is still some work to do cleaning up the code. A future version will contain a wrapped environment for ease of use with the dataset. Note that you may receive errors relating to the atari_py ROMS. Please visit https://github.com/openai/atari-py to see how to fix these issues.
 
 ## Downloading datasets
 
