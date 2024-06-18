@@ -8,10 +8,4 @@ These directories contain their own conda environments for installation. There i
 
 ## Downloading datasets
 
-The training dataset (~40G) can be found at: https://drive.google.com/drive/folders/1843RUUsV-WktLwFfD9z2OLn4eNh4rzJk?usp=sharing
-and the validation dataset can be found at: https://drive.google.com/drive/folders/1EFXI_LQtLK_aM8x1iLTXdML32b8y_gQS?usp=sharing.
-
-Upon downloading, please add the following lines to your .bashrc (or equivalent):
-export DATA_DIR=(your-data-path)
-export VAL_DIR=(your-val-dir-path)
-This will allow the scripts to run with your local version of the data. Otherwise, feel free to modify the code explicitly with your directories. 
+Not available currently. Sorry for the inconvenience!
